@@ -1,0 +1,6 @@
+POST localhost:3000/api/url/shorten
+
+{
+    "FirstUrl":"https://google.com"
+}
+
